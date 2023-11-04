@@ -36,12 +36,12 @@ global.owner = [
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.titulowm = '🤖 ＴＨＥ ＭＹＳＴＩＣ － ＢＯＴ 🤖';
-global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 𝚈 𝚂 𝚃 𝙸 𝙲  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.packname = '𝓕𝓮𝓻𝓑𝓸𝓽';
+global.author = '★𝓕𝓮𝓻𝓑𝓸𝓽★';
+global.wm = '★𝓕𝓮𝓻𝓑𝓸𝓽𝚝★';
+global.titulowm = '🤖 𝓕𝓮𝓻𝓑𝓸𝓽 🤖';
+global.titulowm2 = `乂  𝓕𝓮𝓻𝓑𝓸𝓽 乂`
+global.igfg = '★𝚃𝚑𝚎 𝓕𝓮𝓻𝓑𝓸𝓽 - 𝙱𝚘𝚝★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -62,9 +62,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝓕𝓮𝓻𝓑𝓸𝓽`;
+global.gt = '★𝓕𝓮𝓻𝓑𝓸𝓽𝚝★';
+global.mysticbot = '★𝓕𝓮𝓻𝓑𝓸𝓽★';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
