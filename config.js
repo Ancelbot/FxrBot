@@ -10,12 +10,12 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['59164468509 '👑 Mystic - Creador 👑', true],
-  ['59164468509', '💫 Mystic - Collaborator 1 💫', true],
-  ['59164468509', '💫 Mystic - Collaborator 2 💫', true],
-  ['51930454874', '💫 Mystic - Collaborator 3 💫', true],
+  ['5916446850 '👑 Mystic - Creador 👑', true],
+  ['5916446850, '💫 Mystic - Collaborator 1 💫', true],
+  ['5916446850', '💫 Mystic - Collaborator 2 💫', true],
+  ['5193045487', '💫 Mystic - Collaborator 3 💫', true],
   ['5491162522169', '💫 Mystic - Collaborator 4 💫', true],
-  ['15857359069', '💫 Mystic - Collaborator 5 💫', true],
+  ['1585735906 '💫 Mystic - Collaborator 5 💫', true],
   ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
   ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
   ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
