@@ -2,12 +2,7 @@ import {watchFile, unwatchFile} from 'fs';
 import chalk from 'chalk';
 import {fileURLToPath} from 'url';
 import fs from 'fs'; 
-import cheerio from 'cheerio';
-import fetch from 'node-fetch';
-import axios from 'axios';
-import moment from 'moment-timezone';
-
-global.botnumber = ""
+import cheerio from 
 
 global.owner = [
   ['5916446850 '👑 Mystic - Creador 👑', true],
@@ -42,33 +37,18 @@ global.wm = '★𝓕𝓮𝓻𝓑𝓸𝓽𝚝★';
 global.titulowm = '🤖 𝓕𝓮𝓻𝓑𝓸𝓽 🤖';
 global.titulowm2 = `乂  𝓕𝓮𝓻𝓑𝓸𝓽 乂`
 global.igfg = '★𝚃𝚑𝚎 𝓕𝓮𝓻𝓑𝓸𝓽 - 𝙱𝚘𝚝★';
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
+g
 
 global.mods = [];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
-global.locale = 'es';
-global.dia = d.toLocaleDateString(locale, {weekday: 'long'});
-global.fecha = d.toLocaleDateString('es', {day: 'numeric', month: 'numeric', year: 'numeric'});
-global.mes = d.toLocaleDateString('es', {month: 'long'});
-global.año = d.toLocaleDateString('es', {year: 'numeric'});
-global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
+global.locale = 'es';g(locale, {we', month: 'numeric', year: 'numeric'});nute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝓕𝓮𝓻𝓑𝓸𝓽`;
 global.gt = '★𝓕𝓮𝓻𝓑𝓸𝓽𝚝★';
 global.mysticbot = '★𝓕𝓮𝓻𝓑𝓸𝓽★';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
+global.md = 'https://github.com/Br
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.nomorown = '5219993404349';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
